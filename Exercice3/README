@@ -1,0 +1,12 @@
+# Application Fullstack Dockerisée
+
+## Prérequis
+- Docker
+- Docker Compose
+
+## Installation et Lancement
+
+### Cloner le dépôt
+```sh
+git clone https://github.com/LaliaG/tp__docker.git
+cd tp__docker
